@@ -1,5 +1,5 @@
 # Building and creating a Distribution of A Java Project with Gradle
-
+#
 ##### This guide walks you through using Gradle to build a simple Java project.
 
 ### What you’ll need
